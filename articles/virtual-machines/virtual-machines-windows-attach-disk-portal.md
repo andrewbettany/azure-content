@@ -53,4 +53,4 @@ This article shows you how to attach both new and existing disks to a Windows vi
 
 ## Next steps
 
-If you application needs to use the D: drive to store data, you can [change the drive letter of the Windows temporary disk](virtual-machines-windows-classic-change-drive-letter.md).
+If your application needs to use the D: drive to store data, you can [change the drive letter of the Windows temporary disk](virtual-machines-windows-classic-change-drive-letter.md).
